@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Kriti Gupta
-- 👀 I'm a front-end web developer
-- 🌱 I'm currently learning about ASP.NET MVC framework
-- 📫 You can contact me by mail - kg26071999@gmail.com
+### Hi there
 
-<!---
-kriti613/kriti613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Kriti from India and I'm a Front-end web and UI designer. I really enjoy learning languages and frameworks like Javascript, ASP.NET MVC framework and React, as well as work in Azure. I also enjoy wireframing, ui, ux and design in general. You can check out my linkedin at https://www.linkedin.com/in/kriti-gupta-743599199/ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kriti613)](https://github.com/anuraghazra/github-readme-stats)
