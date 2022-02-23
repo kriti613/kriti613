@@ -15,9 +15,10 @@ I'm Kriti from India and I'm a Front-end web and UI designer. I really enjoy lea
 - 📫 Mail me at kg26071999@gmail.com 
 
 ## Examples of work
-<img src="https://github.com/kriti613/kriti613/blob/main/outputDashboard.png" width=250px>
+<img src="https://github.com/kriti613/kriti613/blob/main/outputDashboard.png" width=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/screencapture-kriti613-github-io-Shopping-Site-2022-02-23-15_10_33.png" width=250px>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriti613)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kriti613&show_icons=true)  
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kriti613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kriti-gupta-743599199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18286941/kriti-gupta?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/kriti613)  
-
-
-
