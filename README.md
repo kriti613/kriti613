@@ -15,7 +15,7 @@ I'm Kriti from India and I'm a Front-end web and UI designer. I really enjoy lea
 - 📫 Mail me at kg26071999@gmail.com 
 
 ## Examples of work
-<img src="https://github.com/kriti613/kriti613/blob/main/outputDashboard.png" width=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/screencapture-kriti613-github-io-Shopping-Site-2022-02-23-15_10_33.png" width=250px>
+<img src="https://github.com/kriti613/kriti613/blob/main/outputDashboard.png" width=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/screencapture-kriti613-github-io-Shopping-Site-2022-02-23-15_10_33.png" width=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/outputSpotify.png" height=250px width=500px>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kriti613)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kriti613&show_icons=true)  
