@@ -13,7 +13,7 @@
 
 
 ## 🌐 Projects
-# Here are some of the projects that showcase my skills and expertise:
+Here are some of the projects that showcase my skills and expertise:
 
 * Interactive Dashboard: Designed and developed an engaging interactive dashboard utilizing ASP.NET MVC, seamlessly integrating data visualization and user-friendly features for an enhanced user experience. Leveraged C#, HTML, CSS, and JavaScript to create a dynamic platform that delivers real-time insights.
 * Shopping Site: An online shopping site of books with features like add to cart, view cart, login-registration page, and contact us page.
@@ -27,8 +27,8 @@
 
 ## 🌱 Currently Learning
 - I'm actively expanding my knowledge in:
--- Data Analytics
--- Machine Learning
+1. Data Analytics
+2. Machine Learning
 
 ## 🤝 Connect with Me
 Let's connect and discuss all things tech, analytics, and beyond! You can find me on LinkedIn and Twitter.
