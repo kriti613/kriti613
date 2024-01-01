@@ -1,5 +1,5 @@
 
-<img src="[https://i.pinimg.com/564x/6a/d9/25/6ad925089cf742b277501884536e715b.jpg](https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png)" width=90%>
+<img src="https://i.pinimg.com/originals/51/f0/7a/51f07a9274c577f6df844fe1f579fe0c.png" width=90%>
 
 # Kriti Gupta
 👩‍💻 Hello World! I'm Kriti Gupta, a passionate Full Stack Web Developer with a background as an Associate Software Engineer at Tech Mahindra for nearly 2 years. Currently, I'm on a journey to deepen my analytical skills by pursuing a Master's in Business Analytics at the University of Texas at Arlington.
