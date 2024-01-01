@@ -1,5 +1,5 @@
 
-<img src="https://www.linkedin.com/in/kriti-gupta-743599199/overlay/background-image/" width=100%>
+<img src="https://www.linkedin.com/in/kriti-gupta-743599199/overlay/background-image" width=100%>
 
 # Kriti Gupta
 👩‍💻 Hello World! I'm Kriti Gupta, a passionate Full Stack Web Developer with a background as an Associate Software Engineer at Tech Mahindra for nearly 2 years. Currently, I'm on a journey to deepen my analytical skills by pursuing a Master's in Business Analytics at the University of Texas at Arlington.
