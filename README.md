@@ -5,9 +5,10 @@
 ## 🚀 Skills and Technologies
 * Languages: C#, SQL
 * Web Technologies: ASP.NET MVC, HTML, CSS, JavaScript
+* Analytical knowledge: Python, Machine Learning
 * Frontend: jQuery, AJAX
 * Database: SQL Server
-* Tools: Visual Studio, Git
+* Tools: Visual Studio, Git, pycharm, Visual Studio code, Google Collab
 
 
 ## 🌐 Projects
@@ -21,7 +22,7 @@ Here are some of the projects that showcase my skills and expertise:
 ## 📚 Education
 - Master's in Business Analytics
 - University of Texas at Arlington
-- Currently pursuing
+- Expected completion Dec 2025
 
 ## 🌱 Currently Learning
 - I'm actively expanding my knowledge in:
