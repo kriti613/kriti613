@@ -7,7 +7,7 @@
 **Website:** [My Website](https://kriti613-portfolio.web.app/)
 
 ## About Me
-Hi! I’m pursuing my Master's in Business Analytics from The University of Texas at Arlington. Regarding my studies, I have completed and opted for courses like accounting, project management, and data mining and warehousing, which I think will be highly relevant to this role. I have also worked as a full-stack web developer for 2 years at an MNC service-based IT Consulting Company, Tech Mahindra. I love business, data, and programming. I’m looking for an internship that challenges me and helps me learn continuously effective, user-friendly solutions.
+Hi! I’m pursuing my Master's in Business Analytics from The University of Texas at Arlington. Regarding my studies, I have completed and opted for courses like accounting, project management, and data mining and warehousing, which I think will be highly relevant to my role as a business analyst. I have also worked as a full-stack web developer for 2 years at an MNC service-based IT Consulting Company, Tech Mahindra. I love business, data, and programming. I’m looking for an internship that challenges me and helps me learn continuously effective, user-friendly solutions.
 
 ## Skills
 ### Programming
