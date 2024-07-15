@@ -100,7 +100,9 @@ Feel free to explore my repositories, and don't hesitate to reach out. Looking f
 
 
 ## Examples of work
-<img src="https://github.com/kriti613/kriti613/blob/main/outputDashboard.png" height=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/screencapture-kriti613-github-io-Shopping-Site-2022-02-23-15_10_33.png" height=250px>     <img src="https://github.com/kriti613/kriti613/blob/main/outputSpotify.png" height=250px width=500px>
+<img src="https://github.com/kriti613/kriti613/blob/main/geospatial.png" height=250px width=100%>     
+<img src="https://github.com/kriti613/kriti613/blob/main/weatherapp.jpg" height=250px width=100%>     
+<img src="https://github.com/kriti613/kriti613/blob/main/youtubeoutput.png" height=250px width=100%>
 
 
 
