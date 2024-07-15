@@ -1,33 +1,96 @@
+# Kriti Gupta, Business Analyst
 
-# Kriti Gupta
-👩‍💻 Hello World! I'm Kriti Gupta, a passionate Full Stack Web Developer with a background as an Associate Software Engineer at Tech Mahindra for nearly 2 years. Currently, I'm on a journey to deepen my analytical skills by pursuing a Master's in Business Analytics at the University of Texas at Arlington.
+**Location:** Texas, USA  
+**Email:** [kritigupta0613@gmail.com](mailto:kritigupta0613@gmail.com)  
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kriti-gupta-743599199/)  
+**GitHub:** [GitHub Profile](https://github.com/kriti613)  
+**Website:** [My Website](https://kriti613-portfolio.web.app/)
 
-## 🚀 Skills and Technologies
-* Languages: C#, SQL
-* Web Technologies: ASP.NET MVC, HTML, CSS, JavaScript
-* Analytical knowledge: Python, Machine Learning
-* Frontend: jQuery, AJAX
-* Database: SQL Server
-* Tools: Visual Studio, Git, pycharm, Visual Studio code, Google Collab
+## About Me
+Hi! I’m pursuing my Master's in Business Analytics from The University of Texas at Arlington. Regarding my studies, I have completed and opted for courses like accounting, project management, and data mining and warehousing, which I think will be highly relevant to this role. I have also worked as a full-stack web developer for 2 years at an MNC service-based IT Consulting Company, Tech Mahindra. I love business, data, and programming. I’m looking for an internship that challenges me and helps me learn continuously effective, user-friendly solutions.
+
+## Skills
+### Programming
+- Python
+- JavaScript
+- C#
+- ASP.NET MVC
+- SQL
+- Azure
+- HTML
+- CSS
+- MAUI
+- GIT
+- C++
+
+### Software
+- Excel
+- Word
+- PowerPoint
+- Visual Studio
+- SSMS
+- Visual Studio Code
+- Power BI
+- Jupyter Notebook
+- JIRA
+
+### Expertise
+- Data Analytics
+- Business (Financial Accounting)
+- Web Development
+- App Development
+- Artificial Intelligence
+- Machine Learning
+- Project Management
+
+## Experience
+
+### Tech Mahindra, India - Associate Software Engineer
+**June 2022 - December 2023**
+- Designed and developed responsive and dynamic websites for management purposes using ASP.NET MVC and SQL.
+- Collaborated with cross-functional teams to enhance data analysis and reporting for web applications, showcasing the capacity to relate well in various fields of specialization and acted as a resource person for a key client in the Pharmacy sector.
+
+### Tech Mahindra, India - Internship
+**January 2022 - June 2022**
+- Trained in ASP.NET MVC and SQL to apply my skills in developing proof-of-concept projects and demonstrating practical expertise.
+- Assisted in troubleshooting issues related to web-based systems to ensure smooth operations.
+
+### Verzeo Summer Camp, India - Internship
+**March 2021 - April 2021**
+- Trained in web development and worked on two minor projects and one major project.
+- Collaborated with a team of machine learners to develop an application that could recognize and predict skin tones from uploaded images.
+
+## Education
+
+### University of Texas, Arlington, USA – Master's in Business Analytics
+**January 2024 - December 2025**  
+Current GPA: 3.0/4.0
+
+### Banasthali Vidyapith, Jaipur, India – BE, Electronics and Communication
+**July 2018 - June 2022**  
+GPA: 8.1/10 (Approx. 3.7/4.0)
+
+## Projects
+
+### [YouTube Comments and Metrics Analysis](https://github.com/kriti613/YouTube-Analysis)
+**June 2024 - June 2024**
+- Analyzed YouTube video comments and various metrics to gain insights into audience preferences and content performance.
+
+### [Time Series Analysis of Stock Market Prices](https://github.com/kriti613/Stock-Price-Analysis)
+**July 2024 - July 2024**
+- Conducted an overall time series analysis of stock prices for 4 tech companies Apple, Amazon, Microsoft, and Google, focusing on data extraction, cleaning, and uncovering trends and correlations.
 
 
-## 🌐 Projects
-Here are some of the projects that showcase my skills and expertise:
+## Certificates
+- **Diploma in Internet and Web Applications** - Banasthali Vidyapith, Jaipur, India (July 2019 - June 2020)
+- **Data Analytics Real-World Projects in Python** - Udemy, India (June 2024 - July 2024)
+- **Dallas AI Summer Program** - Dallas AI, USA (June 2024 - August 2024)
 
-* Interactive Dashboard: Designed and developed an engaging interactive dashboard utilizing ASP.NET MVC, seamlessly integrating data visualization and user-friendly features for an enhanced user experience. Leveraged C#, HTML, CSS, and JavaScript to create a dynamic platform that delivers real-time insights.
-* Shopping Site: An online shopping site of books with features like add to cart, view cart, login-registration page, and contact us page.
-* Spotify Clone: Crafted a Spotify clone project, immersing users in a music streaming experience reminiscent of the popular platform. Implemented with React, Node.js, and MongoDB, this project offers seamless audio playback, personalized playlists, and a sleek, responsive user interface..
-* Feel free to explore the repositories for a detailed look!
-
-## 📚 Education
-- Master's in Business Analytics
-- University of Texas at Arlington
-- Expected completion Dec 2025
-
-## 🌱 Currently Learning
-- I'm actively expanding my knowledge in:
-1. Data Analytics
-2. Machine Learning
+## Hobbies
+- Music
+- Gaming
+- Sports
+- Anime
 
 ## 🤝 Connect with Me
 Let's connect and discuss all things tech, analytics, and beyond! You can find me on LinkedIn and Twitter.
@@ -41,4 +104,4 @@ Feel free to explore my repositories, and don't hesitate to reach out. Looking f
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kriti613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kriti-gupta-743599199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18286941/kriti-gupta?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/kriti613)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kriti613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kriti-gupta-743599199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18286941/kriti-gupta?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kriti613-portfolio.web.app/)  
