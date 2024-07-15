@@ -100,9 +100,9 @@ Feel free to explore my repositories, and don't hesitate to reach out. Looking f
 
 
 ## Examples of work
-<img src="https://github.com/kriti613/kriti613/blob/main/geospatial.png" height=250px width=100%>     
-<img src="https://github.com/kriti613/kriti613/blob/main/weatherapp.jpg" height=250px width=100%>     
-<img src="https://github.com/kriti613/kriti613/blob/main/youtubeoutput.png" height=250px width=100%>
+<img src="https://github.com/kriti613/kriti613/blob/main/geospatial.png" height=250px width=auto>     
+<img src="https://github.com/kriti613/kriti613/blob/main/weatherapp.jpg" height=250px width=auto>     
+<img src="https://github.com/kriti613/kriti613/blob/main/youtubeoutput.png" height=250px width=auto>
 
 
 
