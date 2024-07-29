@@ -93,7 +93,7 @@ GPA: 8.1/10 (Approx. 3.7/4.0)
 - Anime
 
 ## 🤝 Connect with Me
-Let's connect and discuss all things tech, analytics, and beyond! You can find me on LinkedIn and Twitter.
+Let's connect and discuss all things tech, analytics, and beyond! You can find me on LinkedIn.
 
 Feel free to explore my repositories, and don't hesitate to reach out. Looking forward to collaborating and learning together! 🌟
 
