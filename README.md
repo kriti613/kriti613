@@ -1,14 +1,13 @@
-# Kriti Gupta, Business Analyst
+# Hi, I'm Kriti Gupta
 
 **Location:** Texas, USA  
 **Email:** [kritigupta0613@gmail.com](mailto:kritigupta0613@gmail.com)  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kriti-gupta-743599199/)  
-**GitHub:** [GitHub Profile](https://github.com/kriti613)  
 **Website:** [My Website](https://kriti613-portfolio.web.app/)
 
-## About Me
-Hi! I’m pursuing my Master's in Business Analytics from The University of Texas at Arlington. Regarding my studies, I have completed and opted for courses like accounting, project management, and data mining and warehousing, which I think will be highly relevant to my role as a business analyst. I have also worked as a full-stack web developer for 2 years at an MNC service-based IT Consulting Company, Tech Mahindra. I love business, data, and programming. I’m looking for an internship that challenges me and helps me learn continuously effective, user-friendly solutions.
+Hi there! I'm Kriti Gupta, a Master's student in Business Analytics at the University of Texas at Arlington, with a passion for all things business, data, and programming! I love crafting user-friendly, data-driven solutions and exploring new tech to solve real-world challenges. When I’m not geeking out over data or code, I’m probably dreaming up big ideas or enjoying the little things in life. Feel free to explore my repositories and see what I’ve been working on – I’d love to hear your thoughts!
 
+<!--
 ## Skills
 ### Programming
 - Python
@@ -107,3 +106,4 @@ Feel free to explore my repositories, and don't hesitate to reach out. Looking f
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kriti613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kriti-gupta-743599199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/18286941/kriti-gupta?tab=profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kriti613-portfolio.web.app/)  
+/-->
