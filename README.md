@@ -3,7 +3,7 @@
 **Location:** Texas, USA  
 **Email:** [kritigupta0613@gmail.com](mailto:kritigupta0613@gmail.com)  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kriti-gupta-743599199/)  
-**Website:** [My Portfolio]([https://kriti613-portfolio.web.app/](https://kg26071999.wixsite.com/kriti-portfolio-2))
+**Website:** [My Portfolio](https://kg26071999.wixsite.com/kriti-portfolio-2)
 
 Hi there! I'm Kriti Gupta, a Master's student in Business Analytics at the University of Texas at Arlington, with a passion for all things business, data, and programming! I love crafting user-friendly, data-driven solutions and exploring new tech to solve real-world challenges. When I’m not geeking out over data or code, I’m probably dreaming up big ideas or enjoying the little things in life. Feel free to explore my repositories and see what I’ve been working on – I’d love to hear your thoughts!
 
